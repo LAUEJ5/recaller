@@ -1,4 +1,6 @@
-import { defineConfig } from 'vite'
+import { defineConfig 
+       base: '/recaller/',
+  } from 'vite'
 import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
